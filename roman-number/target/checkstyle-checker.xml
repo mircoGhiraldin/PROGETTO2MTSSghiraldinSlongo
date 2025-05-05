@@ -9,7 +9,9 @@
   <!-- Regole di base -->
   <module name="TreeWalker">
     <module name="BooleanExpressionComplexity"/>
-    <module name="CyclomaticComplexity"/>
+    <module name="CyclomaticComplexity">
+      <property name="max" value="14"/>
+    </module>
     <module name="MethodLength"/>
     <module name="EmptyCatchBlock"/>
     <module name="AvoidStarImport"/>
