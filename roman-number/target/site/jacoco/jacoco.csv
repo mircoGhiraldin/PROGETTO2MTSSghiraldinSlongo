@@ -1,4 +1,4 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-roman-number,it.unipd.mtss,Main,27,0,0,0,6,0,2,0,2,0
-roman-number,it.unipd.mtss,IntegerToRoman,221,0,26,0,42,0,15,0,2,0
-roman-number,it.unipd.mtss,RomanPrinter,253,0,4,0,9,0,5,0,3,0
+roman-number,it.unipd.mtss,Main,8,3,0,0,3,1,2,1,2,1
+roman-number,it.unipd.mtss,IntegerToRoman,14,207,1,25,3,39,2,13,1,1
+roman-number,it.unipd.mtss,RomanPrinter,3,250,0,4,1,8,1,4,1,2
