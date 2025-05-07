@@ -13,5 +13,8 @@ public class Main {
     int numero = 1987;
     String romano = IntegerToRoman.convert(numero);
     System.out.println("Il numero " + numero + " in numeri romani è: " + romano);
+
+    
+    System.out.println(RomanPrinter.print(numero));
     }  
 }
