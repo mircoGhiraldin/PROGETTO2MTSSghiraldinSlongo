@@ -6,7 +6,7 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({
     IntegerToRomanTest.class,
     RomanPrinterTest.class,
-    Main.class
+    MainTest.class
 })
 public class AllTest{
     
